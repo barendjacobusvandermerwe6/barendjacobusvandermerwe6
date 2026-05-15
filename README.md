@@ -8,7 +8,7 @@
    origin..... ZA → SE
 
    stack...... TypeScript · Effect-TS · Rust · Python
-   editor..... vscode + Claude Code
+   editor..... vscode
    shell...... ghostty + starship (Purple Aurora / CRT)
 
    building... retrosheet-rs   ·  Crusader Engine
