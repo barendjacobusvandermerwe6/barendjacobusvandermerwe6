@@ -15,11 +15,11 @@
                Backroom        ·  Colima Stugan
                Tolka           ·  baseball research
 
-   learning... Effect-TS deep cuts · Haskell (annals)
+   learning... Effect-TS deep cuts · Rust & Bevy
 
    loves...... extreme metal  ·  Cubs baseball
                Byzantium      ·  historical painting
-               a senior cat named Coco
+               Coco Noir my serior cat
 
    web........ berns.sh
    pod........ baseballhistorytimemachine.com
