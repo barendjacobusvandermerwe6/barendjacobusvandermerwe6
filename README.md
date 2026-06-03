@@ -3,7 +3,7 @@
   ( o.o )     berns@stockholm:~$ whoami
    > ^ <      ──────────────────────────────────────────────
 
-   name....... Berns (Barend) van der Merwe
+   name....... Barend (Berns) van der Merwe
    role....... full-stack dev @ Uniplay
    origin..... ZA → SE
 
