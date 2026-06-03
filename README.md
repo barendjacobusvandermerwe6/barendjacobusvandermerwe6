@@ -8,7 +8,7 @@
    origin..... ZA → SE
 
    stack...... TypeScript · Effect-TS · Rust · Python
-   editor..... vscode
+   editor..... vscode, NeoVim
    shell...... ghostty + starship (Purple Aurora / CRT)
 
    building... retrosheet-rs   ·  Crusader Engine
@@ -18,7 +18,7 @@
    learning... Effect-TS deep cuts · Rust & Bevy
 
    loves...... extreme metal  ·  Cubs baseball
-               Byzantium      ·  historical painting
+               Byzantium      ·  historical paintings
                Coco Noir my serior cat
 
    web........ berns.sh
